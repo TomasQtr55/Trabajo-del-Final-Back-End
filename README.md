@@ -8,17 +8,17 @@ El sistema integra **notificaciones en tiempo real** mediante **Socket.IO**, par
 ---
 ## variables de entorno :
 # Puerto del servidor
-PORT=3000
+- PORT=3000
 
 # Configuración de la base de datos
-DATABASE=inmobiliariadb
-DB_USER=root
-DB_PASS=
-DB_PORT=3306
-DB_HOST=localhost
+- DATABASE=inmobiliariadb
+- DB_USER=root
+- DB_PASS=
+- DB_PORT=3306
+- DB_HOST=localhost
 
 # Clave secreta para la generación de tokens JWT
-JWT_SECRET=G7$kL9@z!vQ3rT#xW2pN8eY6uB$1mC4d
+- JWT_SECRET=G7$kL9@z!vQ3rT#xW2pN8eY6uB$1mC4d
 
 ---
 
